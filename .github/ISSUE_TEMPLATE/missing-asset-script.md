@@ -2,7 +2,7 @@
 name: Missing Asset/Script
 about: Report missing ULTRAKILL assets or scripts
 title: Missing [Assets/Scripts]
-labels: ''
+labels: missing content
 assignees: ''
 
 ---
